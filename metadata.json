@@ -1,0 +1,6 @@
+{
+  "name": "Luxury Gym",
+  "description": "A high-end, premium fitness website with modern dark aesthetics, interactive calculators, a gym schedule, and an AI gym assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
